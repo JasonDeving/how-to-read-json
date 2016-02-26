@@ -11,7 +11,7 @@ live-server
 ```
 
 Technologies used 
-*jquery
-*html
+* jquery
+* html
 
 Now your rolling deep. :smile:
