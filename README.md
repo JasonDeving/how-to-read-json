@@ -10,4 +10,8 @@ cd directory
 live-server
 ```
 
+Technologies used 
+*jquery
+*html
+
 Now your rolling deep. :smile:
