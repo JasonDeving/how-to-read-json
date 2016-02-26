@@ -1,0 +1,16 @@
+{
+	"articles": [
+	{
+		"id": 1,
+		"name": "How to build a website"
+	},
+	{
+		"id": 2,
+		"name": "reading json"
+	},
+	{
+		"id": 3,
+		"name": "last json"
+	}
+	]
+}
